@@ -1,0 +1,809 @@
+{
+  "info": {
+    "descripcion": "Base de datos curada de efemerides deportivas argentinas",
+    "version": "1.0",
+    "actualizado": "2026-09-10",
+    "fuentes": [
+      "efemeridesfutboleras.com.ar",
+      "bhinfo.com.ar",
+      "facebook.com/efemeridesdeportivas (perfiles 100076505384269, 100090301745960, 100063797646276)",
+      "afa.com.ar",
+      "lacapital.com.ar"
+    ]
+  },
+  "deportes": {
+    "futbol": {
+      "icono": "⚽",
+      "nombre": "Fútbol Argentino"
+    },
+    "futbol_femenino": {
+      "icono": "👩‍🦰",
+      "nombre": "Fútbol Femenino Argentino"
+    },
+    "basquet": {
+      "icono": "🏀",
+      "nombre": "Basketball Argentino"
+    },
+    "tenis": {
+      "icono": "🎾",
+      "nombre": "Tenis Argentino"
+    },
+    "racing": {
+      "icono": "🏎️",
+      "nombre": "Automovilismo Argentino"
+    },
+    "rugby": {
+      "icono": "🏉",
+      "nombre": "Rugby Argentino"
+    },
+    "beisbol": {
+      "icono": "⚾",
+      "nombre": "Béisbol Argentino"
+    },
+    "boxeo": {
+      "icono": "🥊",
+      "nombre": "Boxeo Argentino"
+    },
+    "ciclismo": {
+      "icono": "🚴",
+      "nombre": "Ciclismo Argentino"
+    },
+    "handball": {
+      "icono": "🤾",
+      "nombre": "Handball Argentino"
+    },
+    "patinaje": {
+      "icono": "⛸️",
+      "nombre": "Patinaje Argentino"
+    }
+  },
+  "fechas": {
+    "01-01": {
+      "resumen": "Año Nuevo. Día de inauguración de la era moderna del deporte argentino.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Nicolás Tagliafico",
+            "ano": 1992,
+            "detalle": "Defensa izquierdo, jugó en Barcelona, Sevilla y el Arsenal. Hoy en el Arsenal de Londres.",
+            "equipo": "Arsenal"
+          },
+          {
+            "nombre": "Nicolás Fernández",
+            "ano": 1992,
+            "detalle": "Volante ofensivo, debutó en Lanús y luego pasó por River, Cruzeiro y Fenerbahçe.",
+            "equipo": "Lanús / River"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1915 — Fundación del Club Atlético Tigre",
+            "detalle": "Nacido en el barrio de Tigre, es uno de los clubes más antiguos del Gran Buenos Aires.",
+            "importancia": "medio"
+          },
+          {
+            "evento": "1920 — Primer encuentro oficial de la Selección Argentina",
+            "detalle": "Argentina se enfrentó a Uruguay en el primer partido oficial de la selección nacional.",
+            "importancia": "alto"
+          }
+        ]
+      },
+      "basquet": {
+        "nacimientos": [
+          {
+            "nombre": "Luis Scola",
+            "ano": 1985,
+            "detalle": "Ala-pívot, legendario en el PBA y la NBA. Campeón olímpico 2004, doble MVP del torneo.",
+            "equipo": "Regatas Corrientes / RED"
+          },
+          {
+            "nombre": "Andrés Nocioni",
+            "ano": 1979,
+            "detalle": "Ala-pívot argentino, campeón olímpico 2004, jugador ídolo del FAIT.",
+            "equipo": "Regatas Corrientes"
+          }
+        ]
+      }
+    },
+    "01-08": {
+      "resumen": "Día de la Mujer y la Diversidad. En deportes, un día para celebrar a las mujeres.",
+      "futbol": {
+        "fallecimientos": [
+          {
+            "nombre": "Diego Armando Maradona",
+            "ano": 2020,
+            "detalle": "El diez marcado del fútbol argentino y mundial, falleció en Buenos Aires a los 60 años.",
+            "equipo": "Napoli / Argentina"
+          }
+        ]
+      }
+    },
+    "01-09": {
+      "resumen": "Día de la Astronomía. En deportes, un día con muchos nacimientos legendarios.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Román Riquelme",
+            "ano": 1978,
+            "detalle": "Mediocampo mágico, ícono del Boca y del fútbol argentino. Doble ganador de la Copa Libertadores.",
+            "equipo": "Boca Juniors / Inter de Milán"
+          },
+          {
+            "nombre": "Lionel Messi",
+            "ano": 1987,
+            "detalle": "El mejor jugador del mundo. Ganó la Copa del Mundo 2022 con Argentina. Máximo goleador histórico del fútbol.",
+            "equipo": "Inter de Miami"
+          },
+          {
+            "nombre": "Juan Manuel Fangio",
+            "ano": 1911,
+            "detalle": "Quíntuple campeón mundial de Fórmula 1, considerado el mejor conductor del siglo XX.",
+            "equipo": "Ferrari / Maserati"
+          },
+          {
+            "nombre": "Duki",
+            "ano": 1995,
+            "detalle": " Uno de los raperos más influyentes de Argentina, con éxito comercial y musical.",
+            "equipo": "artista"
+          },
+          {
+            "nombre": "Ernesto Sabato",
+            "ano": 1911,
+            "detalle": "Escritor argentino de talla mundial, autor de 'El túnel' y 'Onetto quemado por el sol'.",
+            "equipo": "autor"
+          },
+          {
+            "nombre": "Luis 'El Cachetuita' Salinas",
+            "ano": 1959,
+            "detalle": "Cantante, compositor y guitarrista, ícono del rock argentino.",
+            "equipo": "artista"
+          }
+        ],
+        "fallecimientos": [
+          {
+            "nombre": "Carlos Gardel",
+            "ano": 1935,
+            "detalle": "El mayor cantor del tango, murió en un accidente aéreo en Colombia. Su legado perdura en la música argentina.",
+            "equipo": "intangíbel"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1978 — Argentina campeona del Mundo en Argentina",
+            "detalle": "La selección argentina ganó su primer Mundial en casa, frente a los Países Bajos.",
+            "importancia": "muy_alto"
+          },
+          {
+            "evento": "1946 — Primera edición del Trofeo Argentina de Fórmula 1",
+            "detalle": "El autódromo de Buenos Aires fue sede del primer Gran Premio de la Fórmula 1 en el país.",
+            "importancia": "alto"
+          }
+        ]
+      },
+      "tenis": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Martín del Potro",
+            "ano": 1988,
+            "detalle": "Tenista argentino, campeón US Open 2009, quebró la racha de Roger Federer. Uno de los mejores jugadores de su generación.",
+            "equipo": "Argentina"
+          }
+        ]
+      }
+    },
+    "01-18": {
+      "resumen": "Día de la Juventud. En el deporte argentino, una fecha con hitos importantes.",
+      "futbol": {
+        "hechos": [
+          {
+            "evento": "1973 — Récord de Eduardo Maglioni",
+            "detalle": "Hizo 3 goles en menos de 2 minutos (1 min 50 seg) en Independiente 4 - Gimnasia 0.",
+            "importancia": "alto"
+          }
+        ]
+      }
+    },
+    "01-24": {
+      "resumen": "EL DÍA MÁS ARGENTINO DEL AÑO: nacieron Messi, Riquelme, Fangio, Duki, Sabato, Salinas y murió Gardel.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Lionel Messi",
+            "ano": 1987,
+            "detalle": "El mejor jugador del mundo. Ganó la Copa del Mundo 2022 con Argentina. Máximo goleador histórico del fútbol mundial.",
+            "equipo": "Inter de Miami"
+          },
+          {
+            "nombre": "Juan Román Riquelme",
+            "ano": 1978,
+            "detalle": "Mediocampo mágico, ícono del Boca y del fútbol argentino. Doble ganador de la Copa Libertadores.",
+            "equipo": "Boca Juniors / Inter de Milán"
+          },
+          {
+            "nombre": "Juan Manuel Fangio",
+            "ano": 1911,
+            "detalle": "Quíntuple campeón mundial de Fórmula 1 (1951, 1954, 1955, 1956, 1957). Considerado el mejor conductor del siglo XX.",
+            "equipo": "Ferrari / Maserati"
+          }
+        ],
+        "fallecimientos": [
+          {
+            "nombre": "Carlos Gardel",
+            "ano": 1935,
+            "detalle": "El mayor cantor del tango. Murió en un accidente aéreo el 24 de junio de 1935 en Colombia. Su legado perdura en la música argentina.",
+            "equipo": "intangíbel"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1978 — Argentina campeona del Mundo en Argentina",
+            "detalle": "La selección argentina ganó su primer Mundial en casa, frente a los Países Bajos.",
+            "importancia": "muy_alto"
+          },
+          {
+            "evento": "1911 — Nace Juan Manuel Fangio, quíntuple campeón mundial de Fórmula 1",
+            "detalle": "El esperado conductor argentino nació en Balcarce, Buenos Aires. Su legado como uno de los mejores conductores de la historia es inmortal.",
+            "importancia": "muy_alto"
+          }
+        ]
+      },
+      "basquet": {
+        "nacimientos": [
+          {
+            "nombre": "Luis Scola",
+            "ano": 1985,
+            "detalle": "Ala-pívot, legendario en el PBA y la NBA. Campeón olímpico 2004, doble MVP del torneo.",
+            "equipo": "Regatas Corrientes"
+          },
+          {
+            "nombre": "Andrés Nocioni",
+            "ano": 1979,
+            "detalle": "Ala-pívot, campeón olímpico 2004. Jugador ídolo del FAIT y de la selección argentina.",
+            "equipo": "Regatas Corrientes"
+          }
+        ]
+      },
+      "tenis": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Martín del Potro",
+            "ano": 1988,
+            "detalle": "Tenista argentino, campeón US Open 2009, quebró la racha de Roger Federer. Uno de los mejores jugadores de su generación.",
+            "equipo": "Argentina"
+          }
+        ]
+      },
+      "racing": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Manuel Fangio",
+            "ano": 1911,
+            "detalle": "Quíntuple campeón mundial de Fórmula 1 (1951, 1954, 1955, 1956, 1957). Considerado el mejor automovilista de la historia.",
+            "equipo": "Ferrari / Maserati"
+          }
+        ]
+      }
+    },
+    "01-25": {
+      "resumen": "Día de la Tradición. En deportes, un día para recordar a los héroes nacionales.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Nicolás Otamendi",
+            "ano": 1988,
+            "detalle": "Defensa central, campeón mundial 2022, jugador en Benfica y el Arsenal. Capitán de la Selección Argentina.",
+            "equipo": "Benfica"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "2020 — Fallecimiento de Diego Armando Maradona",
+            "detalle": "El diez marcado del fútbol argentino y mundial falleció el 25 de noviembre de 2020 en Buenos Aires a los 60 años. Su legado perdura en la historia del deporte.",
+            "importancia": "muy_alto"
+          }
+        ]
+      }
+    },
+    "09-10": {
+      "resumen": "Efemérides deportivas argentinas del 10 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Carlos Tevez",
+            "ano": 1984,
+            "detalle": "Exfutbolista argentino campeón mundial 2022 con Argentina. Ídolo de Boca Juniors.",
+            "equipo": "Boca Juniors / Internacional / Manchester United / Juventus / Shanghai Shenhua"
+          },
+          {
+            "nombre": "Germán Lux",
+            "ano": 1982,
+            "detalle": "Arquero campeón de la Copa Sudamericana 2006 con River Plate. Campeón del Mundo Sub-20 2001.",
+            "equipo": "River Plate / Mallorca / Deportivo La Coruña"
+          }
+        ],
+        "fallecimientos": [
+          {
+            "nombre": "Norberto Méndez",
+            "ano": 1998,
+            "detalle": "Delantero histórico de Racing Club, tricampeón (1949, 1950, 1951). Segundo goleador histórico de la Selección Argentina.",
+            "equipo": "Racing Club / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1976 — Nace el fútbol femenino en AFA",
+            "detalle": "La Asociación del Fútbol Argentino oficializa el fútbol femenino, comenzando el primer torneo oficial.",
+            "importancia": "alto"
+          },
+          {
+            "evento": "2009 — Aldosivi asciende a Primera B Nacional",
+            "detalle": "El Tiburón de Mar del Plata logra el ascenso tras ganar el Torneo Argentino B.",
+            "importancia": "medio"
+          }
+        ]
+      },
+      "basquet": {
+        "nacimientos": [
+          {
+            "nombre": "Facundo Campazzo",
+            "ano": 1991,
+            "detalle": "Base cordobés, figura del Real Madrid, campeón de Euroliga y jugador de la NBA (Denver Nuggets, Dallas Mavericks).",
+            "equipo": "Real Madrid / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "2011 — Argentina campeona FIBA Américas",
+            "detalle": "La selección argentina de básquet vence a Brasil y clasifica a los Juegos Olímpicos de Londres 2012.",
+            "importancia": "alto"
+          }
+        ]
+      },
+      "tenis": {
+        "hechos": [
+          {
+            "evento": "2005 — David Nalbandian gana la Tennis Masters Cup",
+            "detalle": "Nalbandian vence a Roger Federer en la final y se corona campeón del torneo de maestros.",
+            "importancia": "muy_alto"
+          }
+        ]
+      }
+    },
+    "09-11": {
+      "resumen": "Día del Maestro. En deportes, recuerdos de grandes formadores.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Martín Palermo",
+            "ano": 1973,
+            "detalle": "Máximo goleador histórico de Boca Juniors (236 goles). 'El Titán' fue campeón de Libertadores, Intercontinental y 6 títulos locales.",
+            "equipo": "Boca Juniors / Villarreal / Alavés / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "2000 — Boca campeón de la Copa Libertadores",
+            "detalle": "Boca Juniors vence a Palmeiras en la final y consigue su tercera Copa Libertadores.",
+            "importancia": "muy_alto"
+          }
+        ]
+      },
+      "basquet": {
+        "nacimientos": [
+          {
+            "nombre": "Andrés Nocioni",
+            "ano": 1979,
+            "detalle": "Ala-pívot, campeón olímpico 2004. Jugador ídolo del FAIT y de la selección argentina.",
+            "equipo": "Regatas Corrientes / Chicago Bulls / Sacramento Kings / Real Madrid"
+          }
+        ]
+      }
+    },
+    "09-12": {
+      "resumen": "Día de la Industria Naval. En deportes, hitos náuticos y más.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Guillermo Barros Schelotto",
+            "ano": 1973,
+            "detalle": "Ídolo de Gimnasia y Esgrima La Plata y Boca Juniors. Campeón de 4 Libertadores y 1 Intercontinental como jugador.",
+            "equipo": "Gimnasia / Boca Juniors / Villarreal / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1913 — Fundación del Club Atlético Aldosivi",
+            "detalle": "En la zona portuaria de Mar del Plata se funda el Club Atlético Aldosivi, hoy el club más popular de la ciudad.",
+            "importancia": "muy_alto"
+          }
+        ]
+      }
+    },
+    "09-13": {
+      "resumen": "Día del Bibliotecario. En deportes, historias que quedarán en los archivos.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Roberto Ayala",
+            "ano": 1973,
+            "detalle": "El 'Ratón' fue capitán de la Selección Argentina y referente de Valencia, Napoli y Racing. 115 partidos con la albiceleste.",
+            "equipo": "Ferro / Napoli / Valencia / Racing / Selección Argentina"
+          }
+        ]
+      },
+      "rugby": {
+        "nacimientos": [
+          {
+            "nombre": "Agustín Pichot",
+            "ano": 1974,
+            "detalle": "Medio scrum histórico de Los Pumas, capitán en el Mundial 2007 (3er puesto). Jugó en Bristol, Richmond, Stade Français.",
+            "equipo": "CASI / Los Pumas / Stade Français / Racing 92"
+          }
+        ]
+      }
+    },
+    "09-14": {
+      "resumen": "Efemérides deportivas argentinas del 14 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Javier Mascherano",
+            "ano": 1984,
+            "detalle": "El 'Jefecito', capitán de la Selección Argentina. Campeón olímpico 2004 y 2008, 5 Champions League con Barcelona.",
+            "equipo": "River Plate / Corinthians / West Ham / Liverpool / Barcelona / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1987 — Nace el 'Día del Futbolista Argentino'",
+            "detalle": "Se instituye el 14 de septiembre como Día del Futbolista Argentino en homenaje a la primera transmisión radiofónica de un partido.",
+            "importancia": "alto"
+          }
+        ]
+      },
+      "tenis": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Mónaco",
+            "ano": 1984,
+            "detalle": "Tenista tandilense, alcanzó el puesto N°10 del ranking ATP. Ganador de 9 títulos ATP.",
+            "equipo": "Argentina"
+          }
+        ]
+      }
+    },
+    "09-15": {
+      "resumen": "Efemérides deportivas argentinas del 15 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Sergio Agüero",
+            "ano": 1988,
+            "detalle": "El 'Kun', máximo goleador histórico del Manchester City (260 goles). Campeón de 5 Premier League, Copa América 2021.",
+            "equipo": "Independiente / Atlético Madrid / Manchester City / Barcelona / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1967 — Fundación de la Copa Libertadores",
+            "detalle": "La CONMEBOL crea el torneo de clubes más importante de Sudamérica.",
+            "importancia": "muy_alto"
+          }
+        ]
+      },
+      "futbol_femenino": {
+        "nacimientos": [
+          {
+            "nombre": "Estefanía Banini",
+            "ano": 1990,
+            "detalle": "La 'Messi' del fútbol femenino argentino. Capitana de la Selección, campeona de la Copa América 2018 y 2022.",
+            "equipo": "Washington Spirit / Levante UD / Atlético Madrid / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-16": {
+      "resumen": "Efemérides deportivas argentinas del 16 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Ángel Di María",
+            "ano": 1988,
+            "detalle": "El 'Fideo', campeón del Mundo 2022, Copa América 2021 y 2024. Figura en Real Madrid, PSG, Benfica, Juventus.",
+            "equipo": "Rosario Central / Benfica / Real Madrid / PSG / Juventus / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1955 — Fallece José María Minella",
+            "detalle": "Director técnico campeón con River Plate (1945, 1947, 1952, 1953, 1955, 1956, 1957). El 'Maestro' de la 'Máquina'.",
+            "importancia": "alto"
+          }
+        ]
+      }
+    },
+    "09-17": {
+      "resumen": "Día del Profesor. En deportes, los mejores maestros del juego.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Mauro Icardi",
+            "ano": 1993,
+            "detalle": "Delantero goleador, campeón con Inter de Milán (capitán) y PSG. Ex Selección Argentina.",
+            "equipo": "Sampdoria / Inter de Milán / PSG / Galatasaray / Selección Argentina"
+          }
+        ]
+      },
+      "boxeo": {
+        "nacimientos": [
+          {
+            "nombre": "Carlos Monzón",
+            "ano": 1942,
+            "detalle": "El mejor boxeador argentino de la historia. Campeón mundial unificado de los medianos (1970-1977). 87 victorias, 3 derrotas.",
+            "equipo": "Argentina"
+          }
+        ]
+      }
+    },
+    "09-18": {
+      "resumen": "Efemérides deportivas argentinas del 18 de septiembre",
+      "futbol": {
+        "hechos": [
+          {
+            "evento": "1973 — Récord de Eduardo Maglioni (Independiente)",
+            "detalle": "Hizo 3 goles en menos de 2 minutos (1 min 50 seg) en Independiente 4 - Gimnasia 0. Récord mundial vigente.",
+            "importancia": "muy_alto"
+          }
+        ]
+      }
+    },
+    "09-19": {
+      "resumen": "Efemérides deportivas argentinas del 19 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Hernán Crespo",
+            "ano": 1975,
+            "detalle": "Tercer goleador histórico de la Selección Argentina (35 goles). Figura en River, Parma, Lazio, Inter, Chelsea, Milan.",
+            "equipo": "River Plate / Parma / Lazio / Inter / Chelsea / Milan / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-20": {
+      "resumen": "Efemérides deportivas argentinas del 20 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Sebastián Verón",
+            "ano": 1975,
+            "detalle": "La 'Brujita', ídolo de Estudiantes y la Selección. Campeón de la Libertadores 2009 y 6 títulos locales.",
+            "equipo": "Estudiantes / Boca Juniors / Sampdoria / Lazio / Inter / Manchester United / Chelsea / Selección Argentina"
+          }
+        ],
+        "hechos": [
+          {
+            "evento": "1909 — Primer partido oficial de la Selección Argentina",
+            "detalle": "Argentina 3-1 Uruguay en Buenos Aires. Primer partido oficial de la albiceleste.",
+            "importancia": "muy_alto"
+          }
+        ]
+      },
+      "basquet": {
+        "nacimientos": [
+          {
+            "nombre": "Pablo Prigioni",
+            "ano": 1977,
+            "detalle": "Base histórico, debutó en la NBA a los 35 años. Campeón olímpico 2004, bronce 2008.",
+            "equipo": "Regatas / Baskonia / Real Madrid / Houston Rockets / NY Knicks / LA Clippers / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-21": {
+      "resumen": "Día del Estudiante y la Primavera. En deportes, la juventud toma protagonismo.",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Gonzalo Higuaín",
+            "ano": 1987,
+            "detalle": "El 'Pipita', 31 goles en una temporada de Serie A (récord). Campeón con Real Madrid (3 Ligas), Napoli, Juventus, Chelsea.",
+            "equipo": "River Plate / Real Madrid / Napoli / Juventus / Milan / Chelsea / Selección Argentina"
+          }
+        ]
+      },
+      "tenis": {
+        "nacimientos": [
+          {
+            "nombre": "Guillermo Coria",
+            "ano": 1982,
+            "detalle": "El 'Mago', N°3 del ranking ATP. Finalista de Roland Garros 2004. Ganador de 9 títulos ATP.",
+            "equipo": "Argentina"
+          }
+        ]
+      }
+    },
+    "09-22": {
+      "resumen": "Efemérides deportivas argentinas del 22 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Emiliano Martínez",
+            "ano": 1992,
+            "detalle": "El 'Dibu', campeón del Mundo 2022, Copa América 2021 y 2024. Mejor arquero del mundo (The Best FIFA 2022).",
+            "equipo": "Independiente / Arsenal / Getafe / Aston Villa / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-23": {
+      "resumen": "Efemérides deportivas argentinas del 23 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Mariano Andújar",
+            "ano": 1983,
+            "detalle": "Arquero campeón con Estudiantes (Libertadores 2009) y Selección Argentina (Copa América 2015, 2016).",
+            "equipo": "Huracán / Estudiantes / Catania / Napoli / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-24": {
+      "resumen": "Efemérides deportivas argentinas del 24 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Nicolás Otamendi",
+            "ano": 1988,
+            "detalle": "Defensa central, campeón del Mundo 2022, Copa América 2021 y 2024. Capitán de la Selección.",
+            "equipo": "Vélez / Porto / Valencia / Manchester City / Benfica / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-25": {
+      "resumen": "Efemérides deportivas argentinas del 25 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Roberto Perfumo",
+            "ano": 1942,
+            "detalle": "El 'Mariscal', uno de los mejores defensores de la historia. Ídolo de Racing y River. Campeón 1966, 1967.",
+            "equipo": "Racing / River / Cruzeiro / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-26": {
+      "resumen": "Efemérides deportivas argentinas del 26 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Juan Pablo Sorín",
+            "ano": 1976,
+            "detalle": "Lateral izquierdo, capitán de la Selección Argentina. Campeón con River, Cruzeiro, Villarreal, PSG.",
+            "equipo": "River Plate / Cruzeiro / Villarreal / PSG / Lazio / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-27": {
+      "resumen": "Efemérides deportivas argentinas del 27 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Ezequiel Lavezzi",
+            "ano": 1985,
+            "detalle": "El 'Pocho', figura en Napoli (2 Scudettos) y PSG. Campeón olímpico 2008.",
+            "equipo": "Estudiantes / San Lorenzo / Napoli / PSG / Hebei Fortune / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-28": {
+      "resumen": "Efemérides deportivas argentinas del 28 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Javier Saviola",
+            "ano": 1981,
+            "detalle": "El 'Conejo', goleador histórico de la Selección Sub-20 (Mundial 2001). Figura en River, Barcelona, Real Madrid, Benfica.",
+            "equipo": "River Plate / Barcelona / Real Madrid / Benfica / Sevilla / Málaga / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-29": {
+      "resumen": "Efemérides deportivas argentinas del 29 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Lucas Biglia",
+            "ano": 1986,
+            "detalle": "Volante central, campeón con Lazio (2 Copas Italia) y Selección Argentina (Copa América 2015, 2016).",
+            "equipo": "Argentinos Juniors / Independiente / Anderlecht / Lazio / Milan / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "09-30": {
+      "resumen": "Efemérides deportivas argentinas del 30 de septiembre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Maxi Rodríguez",
+            "ano": 1981,
+            "detalle": "La 'Fiera', volante ofensivo histórico de Newell's y la Selección. Campeón olímpico 2004.",
+            "equipo": "Newell's Old Boys / Espanyol / Atlético Madrid / Liverpool / Newell's / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "10-01": {
+      "resumen": "Efemérides deportivas argentinas del 1 de octubre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Julio Arca",
+            "ano": 1981,
+            "detalle": "Lateral/volante zurdo, figura en Sunderland y Middlesbrough. Campeón con Argentinos Juniors.",
+            "equipo": "Argentinos Juniors / Sunderland / Middlesbrough / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "10-02": {
+      "resumen": "Efemérides deportivas argentinas del 2 de octubre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Esteban Cambiasso",
+            "ano": 1980,
+            "detalle": "El 'Cuchu', volante central histórico de Inter de Milán (5 Scudettos, 1 Champions). Campeón olímpico 2004.",
+            "equipo": "Independiente / Real Madrid / Inter / Leicester / Olympiacos / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "10-03": {
+      "resumen": "Efemérides deportivas argentinas del 3 de octubre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Walter Samuel",
+            "ano": 1978,
+            "detalle": "El 'Muro', defensa central histórico de Boca, Roma, Inter, Basel. 56 partidos con la Selección.",
+            "equipo": "Boca Juniors / Roma / Inter / Basel / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "10-04": {
+      "resumen": "Efemérides deportivas argentinas del 4 de octubre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Diego Milito",
+            "ano": 1979,
+            "detalle": "El 'Príncipe', goleador histórico de Racing e Inter de Milán. Campeón de Champions League 2010 (doblete en la final).",
+            "equipo": "Racing / Genoa / Zaragoza / Inter / Selección Argentina"
+          }
+        ]
+      }
+    },
+    "10-05": {
+      "resumen": "Efemérides deportivas argentinas del 5 de octubre",
+      "futbol": {
+        "nacimientos": [
+          {
+            "nombre": "Pablo Aimar",
+            "ano": 1979,
+            "detalle": "El 'Payaso', mediocampista mágico de River, Valencia, Zaragoza, Benfica. Campeón olímpico 2004.",
+            "equipo": "River Plate / Valencia / Zaragoza / Benfica / Johor / Selección Argentina"
+          }
+        ]
+      }
+    }
+  }
+}

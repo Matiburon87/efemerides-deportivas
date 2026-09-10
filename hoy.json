@@ -1,0 +1,83 @@
+{
+  "fecha": "2026-09-10",
+  "fecha_formateada": "10 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 10 de septiembre",
+  "necesita_actualizacion": false,
+  "deportes": {
+    "futbol": {
+      "icono": "⚽",
+      "nombre": "Fútbol Argentino",
+      "nacimientos": [
+        {
+          "nombre": "Carlos Tevez",
+          "ano": 1984,
+          "detalle": "Exfutbolista argentino campeón mundial 2022 con Argentina. Ídolo de Boca Juniors.",
+          "equipo": "Boca Juniors / Internacional / Manchester United / Juventus / Shanghai Shenhua"
+        },
+        {
+          "nombre": "Germán Lux",
+          "ano": 1982,
+          "detalle": "Arquero campeón de la Copa Sudamericana 2006 con River Plate. Campeón del Mundo Sub-20 2001.",
+          "equipo": "River Plate / Mallorca / Deportivo La Coruña"
+        }
+      ],
+      "fallecimientos": [
+        {
+          "nombre": "Norberto Méndez",
+          "ano": 1998,
+          "detalle": "Delantero histórico de Racing Club, tricampeón (1949, 1950, 1951). Segundo goleador histórico de la Selección Argentina.",
+          "equipo": "Racing Club / Selección Argentina"
+        }
+      ],
+      "hechos": [
+        {
+          "evento": "1976 — Nace el fútbol femenino en AFA",
+          "detalle": "La Asociación del Fútbol Argentino oficializa el fútbol femenino, comenzando el primer torneo oficial.",
+          "importancia": "alto"
+        },
+        {
+          "evento": "2009 — Aldosivi asciende a Primera B Nacional",
+          "detalle": "El Tiburón de Mar del Plata logra el ascenso tras ganar el Torneo Argentino B.",
+          "importancia": "medio"
+        }
+      ],
+      "total_items": 5
+    },
+    "basquet": {
+      "icono": "🏀",
+      "nombre": "Basketball Argentino",
+      "nacimientos": [
+        {
+          "nombre": "Facundo Campazzo",
+          "ano": 1991,
+          "detalle": "Base cordobés, figura del Real Madrid, campeón de Euroliga y jugador de la NBA (Denver Nuggets, Dallas Mavericks).",
+          "equipo": "Real Madrid / Selección Argentina"
+        }
+      ],
+      "fallecimientos": [],
+      "hechos": [
+        {
+          "evento": "2011 — Argentina campeona FIBA Américas",
+          "detalle": "La selección argentina de básquet vence a Brasil y clasifica a los Juegos Olímpicos de Londres 2012.",
+          "importancia": "alto"
+        }
+      ],
+      "total_items": 2
+    },
+    "tenis": {
+      "icono": "🎾",
+      "nombre": "Tenis Argentino",
+      "nacimientos": [],
+      "fallecimientos": [],
+      "hechos": [
+        {
+          "evento": "2005 — David Nalbandian gana la Tennis Masters Cup",
+          "detalle": "Nalbandian vence a Roger Federer en la final y se corona campeón del torneo de maestros.",
+          "importancia": "muy_alto"
+        }
+      ],
+      "total_items": 1
+    }
+  },
+  "total_items": 8
+}
