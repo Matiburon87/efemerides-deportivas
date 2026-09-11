@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-10",
-  "fecha_formateada": "10 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 10 de septiembre",
+  "fecha": "2026-09-11",
+  "fecha_formateada": "11 de septiembre de 2026",
+  "resumen": "Día del Maestro. En deportes, recuerdos de grandes formadores.",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,75 +9,37 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Carlos Tevez",
-          "ano": 1984,
-          "detalle": "Exfutbolista argentino campeón mundial 2022 con Argentina. Ídolo de Boca Juniors.",
-          "equipo": "Boca Juniors / Internacional / Manchester United / Juventus / Shanghai Shenhua"
-        },
-        {
-          "nombre": "Germán Lux",
-          "ano": 1982,
-          "detalle": "Arquero campeón de la Copa Sudamericana 2006 con River Plate. Campeón del Mundo Sub-20 2001.",
-          "equipo": "River Plate / Mallorca / Deportivo La Coruña"
+          "nombre": "Martín Palermo",
+          "ano": 1973,
+          "detalle": "Máximo goleador histórico de Boca Juniors (236 goles). 'El Titán' fue campeón de Libertadores, Intercontinental y 6 títulos locales.",
+          "equipo": "Boca Juniors / Villarreal / Alavés / Selección Argentina"
         }
       ],
-      "fallecimientos": [
-        {
-          "nombre": "Norberto Méndez",
-          "ano": 1998,
-          "detalle": "Delantero histórico de Racing Club, tricampeón (1949, 1950, 1951). Segundo goleador histórico de la Selección Argentina.",
-          "equipo": "Racing Club / Selección Argentina"
-        }
-      ],
+      "fallecimientos": [],
       "hechos": [
         {
-          "evento": "1976 — Nace el fútbol femenino en AFA",
-          "detalle": "La Asociación del Fútbol Argentino oficializa el fútbol femenino, comenzando el primer torneo oficial.",
-          "importancia": "alto"
-        },
-        {
-          "evento": "2009 — Aldosivi asciende a Primera B Nacional",
-          "detalle": "El Tiburón de Mar del Plata logra el ascenso tras ganar el Torneo Argentino B.",
-          "importancia": "medio"
+          "evento": "2000 — Boca campeón de la Copa Libertadores",
+          "detalle": "Boca Juniors vence a Palmeiras en la final y consigue su tercera Copa Libertadores.",
+          "importancia": "muy_alto"
         }
       ],
-      "total_items": 5
+      "total_items": 2
     },
     "basquet": {
       "icono": "🏀",
       "nombre": "Basketball Argentino",
       "nacimientos": [
         {
-          "nombre": "Facundo Campazzo",
-          "ano": 1991,
-          "detalle": "Base cordobés, figura del Real Madrid, campeón de Euroliga y jugador de la NBA (Denver Nuggets, Dallas Mavericks).",
-          "equipo": "Real Madrid / Selección Argentina"
+          "nombre": "Andrés Nocioni",
+          "ano": 1979,
+          "detalle": "Ala-pívot, campeón olímpico 2004. Jugador ídolo del FAIT y de la selección argentina.",
+          "equipo": "Regatas Corrientes / Chicago Bulls / Sacramento Kings / Real Madrid"
         }
       ],
       "fallecimientos": [],
-      "hechos": [
-        {
-          "evento": "2011 — Argentina campeona FIBA Américas",
-          "detalle": "La selección argentina de básquet vence a Brasil y clasifica a los Juegos Olímpicos de Londres 2012.",
-          "importancia": "alto"
-        }
-      ],
-      "total_items": 2
-    },
-    "tenis": {
-      "icono": "🎾",
-      "nombre": "Tenis Argentino",
-      "nacimientos": [],
-      "fallecimientos": [],
-      "hechos": [
-        {
-          "evento": "2005 — David Nalbandian gana la Tennis Masters Cup",
-          "detalle": "Nalbandian vence a Roger Federer en la final y se corona campeón del torneo de maestros.",
-          "importancia": "muy_alto"
-        }
-      ],
+      "hechos": [],
       "total_items": 1
     }
   },
-  "total_items": 8
+  "total_items": 3
 }
