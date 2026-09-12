@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-11",
-  "fecha_formateada": "11 de septiembre de 2026",
-  "resumen": "Día del Maestro. En deportes, recuerdos de grandes formadores.",
+  "fecha": "2026-09-12",
+  "fecha_formateada": "12 de septiembre de 2026",
+  "resumen": "Día de la Industria Naval. En deportes, hitos náuticos y más.",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,37 +9,22 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Martín Palermo",
+          "nombre": "Guillermo Barros Schelotto",
           "ano": 1973,
-          "detalle": "Máximo goleador histórico de Boca Juniors (236 goles). 'El Titán' fue campeón de Libertadores, Intercontinental y 6 títulos locales.",
-          "equipo": "Boca Juniors / Villarreal / Alavés / Selección Argentina"
+          "detalle": "Ídolo de Gimnasia y Esgrima La Plata y Boca Juniors. Campeón de 4 Libertadores y 1 Intercontinental como jugador.",
+          "equipo": "Gimnasia / Boca Juniors / Villarreal / Selección Argentina"
         }
       ],
       "fallecimientos": [],
       "hechos": [
         {
-          "evento": "2000 — Boca campeón de la Copa Libertadores",
-          "detalle": "Boca Juniors vence a Palmeiras en la final y consigue su tercera Copa Libertadores.",
+          "evento": "1913 — Fundación del Club Atlético Aldosivi",
+          "detalle": "En la zona portuaria de Mar del Plata se funda el Club Atlético Aldosivi, hoy el club más popular de la ciudad.",
           "importancia": "muy_alto"
         }
       ],
       "total_items": 2
-    },
-    "basquet": {
-      "icono": "🏀",
-      "nombre": "Basketball Argentino",
-      "nacimientos": [
-        {
-          "nombre": "Andrés Nocioni",
-          "ano": 1979,
-          "detalle": "Ala-pívot, campeón olímpico 2004. Jugador ídolo del FAIT y de la selección argentina.",
-          "equipo": "Regatas Corrientes / Chicago Bulls / Sacramento Kings / Real Madrid"
-        }
-      ],
-      "fallecimientos": [],
-      "hechos": [],
-      "total_items": 1
     }
   },
-  "total_items": 3
+  "total_items": 2
 }
