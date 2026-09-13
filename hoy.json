@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-12",
-  "fecha_formateada": "12 de septiembre de 2026",
-  "resumen": "Día de la Industria Naval. En deportes, hitos náuticos y más.",
+  "fecha": "2026-09-13",
+  "fecha_formateada": "13 de septiembre de 2026",
+  "resumen": "Día del Bibliotecario. En deportes, historias que quedarán en los archivos.",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,21 +9,30 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Guillermo Barros Schelotto",
+          "nombre": "Roberto Ayala",
           "ano": 1973,
-          "detalle": "Ídolo de Gimnasia y Esgrima La Plata y Boca Juniors. Campeón de 4 Libertadores y 1 Intercontinental como jugador.",
-          "equipo": "Gimnasia / Boca Juniors / Villarreal / Selección Argentina"
+          "detalle": "El 'Ratón' fue capitán de la Selección Argentina y referente de Valencia, Napoli y Racing. 115 partidos con la albiceleste.",
+          "equipo": "Ferro / Napoli / Valencia / Racing / Selección Argentina"
         }
       ],
       "fallecimientos": [],
-      "hechos": [
+      "hechos": [],
+      "total_items": 1
+    },
+    "rugby": {
+      "icono": "🏉",
+      "nombre": "Rugby Argentino",
+      "nacimientos": [
         {
-          "evento": "1913 — Fundación del Club Atlético Aldosivi",
-          "detalle": "En la zona portuaria de Mar del Plata se funda el Club Atlético Aldosivi, hoy el club más popular de la ciudad.",
-          "importancia": "muy_alto"
+          "nombre": "Agustín Pichot",
+          "ano": 1974,
+          "detalle": "Medio scrum histórico de Los Pumas, capitán en el Mundial 2007 (3er puesto). Jugó en Bristol, Richmond, Stade Français.",
+          "equipo": "CASI / Los Pumas / Stade Français / Racing 92"
         }
       ],
-      "total_items": 2
+      "fallecimientos": [],
+      "hechos": [],
+      "total_items": 1
     }
   },
   "total_items": 2
