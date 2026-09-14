@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-13",
-  "fecha_formateada": "13 de septiembre de 2026",
-  "resumen": "Día del Bibliotecario. En deportes, historias que quedarán en los archivos.",
+  "fecha": "2026-09-14",
+  "fecha_formateada": "14 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 14 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,25 +9,31 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Roberto Ayala",
-          "ano": 1973,
-          "detalle": "El 'Ratón' fue capitán de la Selección Argentina y referente de Valencia, Napoli y Racing. 115 partidos con la albiceleste.",
-          "equipo": "Ferro / Napoli / Valencia / Racing / Selección Argentina"
+          "nombre": "Javier Mascherano",
+          "ano": 1984,
+          "detalle": "El 'Jefecito', capitán de la Selección Argentina. Campeón olímpico 2004 y 2008, 5 Champions League con Barcelona.",
+          "equipo": "River Plate / Corinthians / West Ham / Liverpool / Barcelona / Selección Argentina"
         }
       ],
       "fallecimientos": [],
-      "hechos": [],
-      "total_items": 1
+      "hechos": [
+        {
+          "evento": "1987 — Nace el 'Día del Futbolista Argentino'",
+          "detalle": "Se instituye el 14 de septiembre como Día del Futbolista Argentino en homenaje a la primera transmisión radiofónica de un partido.",
+          "importancia": "alto"
+        }
+      ],
+      "total_items": 2
     },
-    "rugby": {
-      "icono": "🏉",
-      "nombre": "Rugby Argentino",
+    "tenis": {
+      "icono": "🎾",
+      "nombre": "Tenis Argentino",
       "nacimientos": [
         {
-          "nombre": "Agustín Pichot",
-          "ano": 1974,
-          "detalle": "Medio scrum histórico de Los Pumas, capitán en el Mundial 2007 (3er puesto). Jugó en Bristol, Richmond, Stade Français.",
-          "equipo": "CASI / Los Pumas / Stade Français / Racing 92"
+          "nombre": "Juan Mónaco",
+          "ano": 1984,
+          "detalle": "Tenista tandilense, alcanzó el puesto N°10 del ranking ATP. Ganador de 9 títulos ATP.",
+          "equipo": "Argentina"
         }
       ],
       "fallecimientos": [],
@@ -35,5 +41,5 @@
       "total_items": 1
     }
   },
-  "total_items": 2
+  "total_items": 3
 }
