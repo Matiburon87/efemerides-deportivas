@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-14",
-  "fecha_formateada": "14 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 14 de septiembre",
+  "fecha": "2026-09-15",
+  "fecha_formateada": "15 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 15 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,31 +9,31 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Javier Mascherano",
-          "ano": 1984,
-          "detalle": "El 'Jefecito', capitán de la Selección Argentina. Campeón olímpico 2004 y 2008, 5 Champions League con Barcelona.",
-          "equipo": "River Plate / Corinthians / West Ham / Liverpool / Barcelona / Selección Argentina"
+          "nombre": "Sergio Agüero",
+          "ano": 1988,
+          "detalle": "El 'Kun', máximo goleador histórico del Manchester City (260 goles). Campeón de 5 Premier League, Copa América 2021.",
+          "equipo": "Independiente / Atlético Madrid / Manchester City / Barcelona / Selección Argentina"
         }
       ],
       "fallecimientos": [],
       "hechos": [
         {
-          "evento": "1987 — Nace el 'Día del Futbolista Argentino'",
-          "detalle": "Se instituye el 14 de septiembre como Día del Futbolista Argentino en homenaje a la primera transmisión radiofónica de un partido.",
-          "importancia": "alto"
+          "evento": "1967 — Fundación de la Copa Libertadores",
+          "detalle": "La CONMEBOL crea el torneo de clubes más importante de Sudamérica.",
+          "importancia": "muy_alto"
         }
       ],
       "total_items": 2
     },
-    "tenis": {
-      "icono": "🎾",
-      "nombre": "Tenis Argentino",
+    "futbol_femenino": {
+      "icono": "👩‍🦰",
+      "nombre": "Fútbol Femenino Argentino",
       "nacimientos": [
         {
-          "nombre": "Juan Mónaco",
-          "ano": 1984,
-          "detalle": "Tenista tandilense, alcanzó el puesto N°10 del ranking ATP. Ganador de 9 títulos ATP.",
-          "equipo": "Argentina"
+          "nombre": "Estefanía Banini",
+          "ano": 1990,
+          "detalle": "La 'Messi' del fútbol femenino argentino. Capitana de la Selección, campeona de la Copa América 2018 y 2022.",
+          "equipo": "Washington Spirit / Levante UD / Atlético Madrid / Selección Argentina"
         }
       ],
       "fallecimientos": [],
