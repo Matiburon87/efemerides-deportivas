@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-15",
-  "fecha_formateada": "15 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 15 de septiembre",
+  "fecha": "2026-09-16",
+  "fecha_formateada": "16 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 16 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,37 +9,22 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Sergio Agüero",
+          "nombre": "Ángel Di María",
           "ano": 1988,
-          "detalle": "El 'Kun', máximo goleador histórico del Manchester City (260 goles). Campeón de 5 Premier League, Copa América 2021.",
-          "equipo": "Independiente / Atlético Madrid / Manchester City / Barcelona / Selección Argentina"
+          "detalle": "El 'Fideo', campeón del Mundo 2022, Copa América 2021 y 2024. Figura en Real Madrid, PSG, Benfica, Juventus.",
+          "equipo": "Rosario Central / Benfica / Real Madrid / PSG / Juventus / Selección Argentina"
         }
       ],
       "fallecimientos": [],
       "hechos": [
         {
-          "evento": "1967 — Fundación de la Copa Libertadores",
-          "detalle": "La CONMEBOL crea el torneo de clubes más importante de Sudamérica.",
-          "importancia": "muy_alto"
+          "evento": "1955 — Fallece José María Minella",
+          "detalle": "Director técnico campeón con River Plate (1945, 1947, 1952, 1953, 1955, 1956, 1957). El 'Maestro' de la 'Máquina'.",
+          "importancia": "alto"
         }
       ],
       "total_items": 2
-    },
-    "futbol_femenino": {
-      "icono": "👩‍🦰",
-      "nombre": "Fútbol Femenino Argentino",
-      "nacimientos": [
-        {
-          "nombre": "Estefanía Banini",
-          "ano": 1990,
-          "detalle": "La 'Messi' del fútbol femenino argentino. Capitana de la Selección, campeona de la Copa América 2018 y 2022.",
-          "equipo": "Washington Spirit / Levante UD / Atlético Madrid / Selección Argentina"
-        }
-      ],
-      "fallecimientos": [],
-      "hechos": [],
-      "total_items": 1
     }
   },
-  "total_items": 3
+  "total_items": 2
 }
