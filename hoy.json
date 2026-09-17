@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-16",
-  "fecha_formateada": "16 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 16 de septiembre",
+  "fecha": "2026-09-17",
+  "fecha_formateada": "17 de septiembre de 2026",
+  "resumen": "Día del Profesor. En deportes, los mejores maestros del juego.",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,21 +9,30 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Ángel Di María",
-          "ano": 1988,
-          "detalle": "El 'Fideo', campeón del Mundo 2022, Copa América 2021 y 2024. Figura en Real Madrid, PSG, Benfica, Juventus.",
-          "equipo": "Rosario Central / Benfica / Real Madrid / PSG / Juventus / Selección Argentina"
+          "nombre": "Mauro Icardi",
+          "ano": 1993,
+          "detalle": "Delantero goleador, campeón con Inter de Milán (capitán) y PSG. Ex Selección Argentina.",
+          "equipo": "Sampdoria / Inter de Milán / PSG / Galatasaray / Selección Argentina"
         }
       ],
       "fallecimientos": [],
-      "hechos": [
+      "hechos": [],
+      "total_items": 1
+    },
+    "boxeo": {
+      "icono": "🥊",
+      "nombre": "Boxeo Argentino",
+      "nacimientos": [
         {
-          "evento": "1955 — Fallece José María Minella",
-          "detalle": "Director técnico campeón con River Plate (1945, 1947, 1952, 1953, 1955, 1956, 1957). El 'Maestro' de la 'Máquina'.",
-          "importancia": "alto"
+          "nombre": "Carlos Monzón",
+          "ano": 1942,
+          "detalle": "El mejor boxeador argentino de la historia. Campeón mundial unificado de los medianos (1970-1977). 87 victorias, 3 derrotas.",
+          "equipo": "Argentina"
         }
       ],
-      "total_items": 2
+      "fallecimientos": [],
+      "hechos": [],
+      "total_items": 1
     }
   },
   "total_items": 2
