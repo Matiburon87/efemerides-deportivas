@@ -1,39 +1,23 @@
 {
-  "fecha": "2026-09-17",
-  "fecha_formateada": "17 de septiembre de 2026",
-  "resumen": "Día del Profesor. En deportes, los mejores maestros del juego.",
+  "fecha": "2026-09-18",
+  "fecha_formateada": "18 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 18 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
       "icono": "⚽",
       "nombre": "Fútbol Argentino",
-      "nacimientos": [
+      "nacimientos": [],
+      "fallecimientos": [],
+      "hechos": [
         {
-          "nombre": "Mauro Icardi",
-          "ano": 1993,
-          "detalle": "Delantero goleador, campeón con Inter de Milán (capitán) y PSG. Ex Selección Argentina.",
-          "equipo": "Sampdoria / Inter de Milán / PSG / Galatasaray / Selección Argentina"
+          "evento": "1973 — Récord de Eduardo Maglioni (Independiente)",
+          "detalle": "Hizo 3 goles en menos de 2 minutos (1 min 50 seg) en Independiente 4 - Gimnasia 0. Récord mundial vigente.",
+          "importancia": "muy_alto"
         }
       ],
-      "fallecimientos": [],
-      "hechos": [],
-      "total_items": 1
-    },
-    "boxeo": {
-      "icono": "🥊",
-      "nombre": "Boxeo Argentino",
-      "nacimientos": [
-        {
-          "nombre": "Carlos Monzón",
-          "ano": 1942,
-          "detalle": "El mejor boxeador argentino de la historia. Campeón mundial unificado de los medianos (1970-1977). 87 victorias, 3 derrotas.",
-          "equipo": "Argentina"
-        }
-      ],
-      "fallecimientos": [],
-      "hechos": [],
       "total_items": 1
     }
   },
-  "total_items": 2
+  "total_items": 1
 }
