@@ -1,21 +1,22 @@
 {
-  "fecha": "2026-09-18",
-  "fecha_formateada": "18 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 18 de septiembre",
+  "fecha": "2026-09-19",
+  "fecha_formateada": "19 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 19 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
       "icono": "⚽",
       "nombre": "Fútbol Argentino",
-      "nacimientos": [],
-      "fallecimientos": [],
-      "hechos": [
+      "nacimientos": [
         {
-          "evento": "1973 — Récord de Eduardo Maglioni (Independiente)",
-          "detalle": "Hizo 3 goles en menos de 2 minutos (1 min 50 seg) en Independiente 4 - Gimnasia 0. Récord mundial vigente.",
-          "importancia": "muy_alto"
+          "nombre": "Hernán Crespo",
+          "ano": 1975,
+          "detalle": "Tercer goleador histórico de la Selección Argentina (35 goles). Figura en River, Parma, Lazio, Inter, Chelsea, Milan.",
+          "equipo": "River Plate / Parma / Lazio / Inter / Chelsea / Milan / Selección Argentina"
         }
       ],
+      "fallecimientos": [],
+      "hechos": [],
       "total_items": 1
     }
   },
