@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-19",
-  "fecha_formateada": "19 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 19 de septiembre",
+  "fecha": "2026-09-20",
+  "fecha_formateada": "20 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 20 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,31 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Hernán Crespo",
+          "nombre": "Juan Sebastián Verón",
           "ano": 1975,
-          "detalle": "Tercer goleador histórico de la Selección Argentina (35 goles). Figura en River, Parma, Lazio, Inter, Chelsea, Milan.",
-          "equipo": "River Plate / Parma / Lazio / Inter / Chelsea / Milan / Selección Argentina"
+          "detalle": "La 'Brujita', ídolo de Estudiantes y la Selección. Campeón de la Libertadores 2009 y 6 títulos locales.",
+          "equipo": "Estudiantes / Boca Juniors / Sampdoria / Lazio / Inter / Manchester United / Chelsea / Selección Argentina"
+        }
+      ],
+      "fallecimientos": [],
+      "hechos": [
+        {
+          "evento": "1909 — Primer partido oficial de la Selección Argentina",
+          "detalle": "Argentina 3-1 Uruguay en Buenos Aires. Primer partido oficial de la albiceleste.",
+          "importancia": "muy_alto"
+        }
+      ],
+      "total_items": 2
+    },
+    "basquet": {
+      "icono": "🏀",
+      "nombre": "Basketball Argentino",
+      "nacimientos": [
+        {
+          "nombre": "Pablo Prigioni",
+          "ano": 1977,
+          "detalle": "Base histórico, debutó en la NBA a los 35 años. Campeón olímpico 2004, bronce 2008.",
+          "equipo": "Regatas / Baskonia / Real Madrid / Houston Rockets / NY Knicks / LA Clippers / Selección Argentina"
         }
       ],
       "fallecimientos": [],
@@ -20,5 +41,5 @@
       "total_items": 1
     }
   },
-  "total_items": 1
+  "total_items": 3
 }
