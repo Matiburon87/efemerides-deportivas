@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-21",
-  "fecha_formateada": "21 de septiembre de 2026",
-  "resumen": "Día del Estudiante y la Primavera. En deportes, la juventud toma protagonismo.",
+  "fecha": "2026-09-22",
+  "fecha_formateada": "22 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 22 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,25 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Gonzalo Higuaín",
-          "ano": 1987,
-          "detalle": "El 'Pipita', 31 goles en una temporada de Serie A (récord). Campeón con Real Madrid (3 Ligas), Napoli, Juventus, Chelsea.",
-          "equipo": "River Plate / Real Madrid / Napoli / Juventus / Milan / Chelsea / Selección Argentina"
-        }
-      ],
-      "fallecimientos": [],
-      "hechos": [],
-      "total_items": 1
-    },
-    "tenis": {
-      "icono": "🎾",
-      "nombre": "Tenis Argentino",
-      "nacimientos": [
-        {
-          "nombre": "Guillermo Coria",
-          "ano": 1982,
-          "detalle": "El 'Mago', N°3 del ranking ATP. Finalista de Roland Garros 2004. Ganador de 9 títulos ATP.",
-          "equipo": "Argentina"
+          "nombre": "Emiliano Martínez",
+          "ano": 1992,
+          "detalle": "El 'Dibu', campeón del Mundo 2022, Copa América 2021 y 2024. Mejor arquero del mundo (The Best FIFA 2022).",
+          "equipo": "Independiente / Arsenal / Getafe / Aston Villa / Selección Argentina"
         }
       ],
       "fallecimientos": [],
@@ -35,5 +20,5 @@
       "total_items": 1
     }
   },
-  "total_items": 2
+  "total_items": 1
 }
