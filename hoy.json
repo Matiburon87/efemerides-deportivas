@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-24",
-  "fecha_formateada": "24 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 24 de septiembre",
+  "fecha": "2026-09-25",
+  "fecha_formateada": "25 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 25 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Nicolás Otamendi",
-          "ano": 1988,
-          "detalle": "Defensa central, campeón del Mundo 2022, Copa América 2021 y 2024. Capitán de la Selección.",
-          "equipo": "Vélez / Porto / Valencia / Manchester City / Benfica / Selección Argentina"
+          "nombre": "Roberto Perfumo",
+          "ano": 1942,
+          "detalle": "El 'Mariscal', uno de los mejores defensores de la historia. Ídolo de Racing y River. Campeón 1966, 1967.",
+          "equipo": "Racing / River / Cruzeiro / Selección Argentina"
         }
       ],
       "fallecimientos": [],
