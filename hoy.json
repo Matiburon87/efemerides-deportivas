@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-25",
-  "fecha_formateada": "25 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 25 de septiembre",
+  "fecha": "2026-09-26",
+  "fecha_formateada": "26 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 26 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Roberto Perfumo",
-          "ano": 1942,
-          "detalle": "El 'Mariscal', uno de los mejores defensores de la historia. Ídolo de Racing y River. Campeón 1966, 1967.",
-          "equipo": "Racing / River / Cruzeiro / Selección Argentina"
+          "nombre": "Juan Pablo Sorín",
+          "ano": 1976,
+          "detalle": "Lateral izquierdo, capitán de la Selección Argentina. Campeón con River, Cruzeiro, Villarreal, PSG.",
+          "equipo": "River Plate / Cruzeiro / Villarreal / PSG / Lazio / Selección Argentina"
         }
       ],
       "fallecimientos": [],
