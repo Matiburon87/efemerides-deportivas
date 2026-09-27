@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-26",
-  "fecha_formateada": "26 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 26 de septiembre",
+  "fecha": "2026-09-27",
+  "fecha_formateada": "27 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 27 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Juan Pablo Sorín",
-          "ano": 1976,
-          "detalle": "Lateral izquierdo, capitán de la Selección Argentina. Campeón con River, Cruzeiro, Villarreal, PSG.",
-          "equipo": "River Plate / Cruzeiro / Villarreal / PSG / Lazio / Selección Argentina"
+          "nombre": "Ezequiel Lavezzi",
+          "ano": 1985,
+          "detalle": "El 'Pocho', figura en Napoli (2 Scudettos) y PSG. Campeón olímpico 2008.",
+          "equipo": "Estudiantes / San Lorenzo / Napoli / PSG / Hebei Fortune / Selección Argentina"
         }
       ],
       "fallecimientos": [],
