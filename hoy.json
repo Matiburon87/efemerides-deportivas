@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-27",
-  "fecha_formateada": "27 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 27 de septiembre",
+  "fecha": "2026-09-28",
+  "fecha_formateada": "28 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 28 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Ezequiel Lavezzi",
-          "ano": 1985,
-          "detalle": "El 'Pocho', figura en Napoli (2 Scudettos) y PSG. Campeón olímpico 2008.",
-          "equipo": "Estudiantes / San Lorenzo / Napoli / PSG / Hebei Fortune / Selección Argentina"
+          "nombre": "Javier Saviola",
+          "ano": 1981,
+          "detalle": "El 'Conejo', goleador histórico de la Selección Sub-20 (Mundial 2001). Figura en River, Barcelona, Real Madrid, Benfica.",
+          "equipo": "River Plate / Barcelona / Real Madrid / Benfica / Sevilla / Málaga / Selección Argentina"
         }
       ],
       "fallecimientos": [],
