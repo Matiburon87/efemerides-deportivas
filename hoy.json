@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-29",
-  "fecha_formateada": "29 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 29 de septiembre",
+  "fecha": "2026-09-30",
+  "fecha_formateada": "30 de septiembre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 30 de septiembre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Lucas Biglia",
-          "ano": 1986,
-          "detalle": "Volante central, campeón con Lazio (2 Copas Italia) y Selección Argentina (Copa América 2015, 2016).",
-          "equipo": "Argentinos Juniors / Independiente / Anderlecht / Lazio / Milan / Selección Argentina"
+          "nombre": "Maxi Rodríguez",
+          "ano": 1981,
+          "detalle": "La 'Fiera', volante ofensivo histórico de Newell's y la Selección. Campeón olímpico 2004.",
+          "equipo": "Newell's Old Boys / Espanyol / Atlético Madrid / Liverpool / Newell's / Selección Argentina"
         }
       ],
       "fallecimientos": [],
