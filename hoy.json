@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-09-30",
-  "fecha_formateada": "30 de septiembre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 30 de septiembre",
+  "fecha": "2026-10-01",
+  "fecha_formateada": "1 de octubre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 1 de octubre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Maxi Rodríguez",
+          "nombre": "Julio Arca",
           "ano": 1981,
-          "detalle": "La 'Fiera', volante ofensivo histórico de Newell's y la Selección. Campeón olímpico 2004.",
-          "equipo": "Newell's Old Boys / Espanyol / Atlético Madrid / Liverpool / Newell's / Selección Argentina"
+          "detalle": "Lateral/volante zurdo, figura en Sunderland y Middlesbrough. Campeón con Argentinos Juniors.",
+          "equipo": "Argentinos Juniors / Sunderland / Middlesbrough / Selección Argentina"
         }
       ],
       "fallecimientos": [],
