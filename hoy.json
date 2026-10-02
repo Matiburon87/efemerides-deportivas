@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-01",
-  "fecha_formateada": "1 de octubre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 1 de octubre",
+  "fecha": "2026-10-02",
+  "fecha_formateada": "2 de octubre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 2 de octubre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Julio Arca",
-          "ano": 1981,
-          "detalle": "Lateral/volante zurdo, figura en Sunderland y Middlesbrough. Campeón con Argentinos Juniors.",
-          "equipo": "Argentinos Juniors / Sunderland / Middlesbrough / Selección Argentina"
+          "nombre": "Esteban Cambiasso",
+          "ano": 1980,
+          "detalle": "El 'Cuchu', volante central histórico de Inter de Milán (5 Scudettos, 1 Champions). Campeón olímpico 2004.",
+          "equipo": "Independiente / Real Madrid / Inter / Leicester / Olympiacos / Selección Argentina"
         }
       ],
       "fallecimientos": [],
