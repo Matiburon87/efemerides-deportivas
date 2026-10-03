@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-02",
-  "fecha_formateada": "2 de octubre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 2 de octubre",
+  "fecha": "2026-10-03",
+  "fecha_formateada": "3 de octubre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 3 de octubre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Esteban Cambiasso",
-          "ano": 1980,
-          "detalle": "El 'Cuchu', volante central histórico de Inter de Milán (5 Scudettos, 1 Champions). Campeón olímpico 2004.",
-          "equipo": "Independiente / Real Madrid / Inter / Leicester / Olympiacos / Selección Argentina"
+          "nombre": "Walter Samuel",
+          "ano": 1978,
+          "detalle": "El 'Muro', defensa central histórico de Boca, Roma, Inter, Basel. 56 partidos con la Selección.",
+          "equipo": "Boca Juniors / Roma / Inter / Basel / Selección Argentina"
         }
       ],
       "fallecimientos": [],
