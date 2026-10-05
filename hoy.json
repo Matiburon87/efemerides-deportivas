@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-04",
-  "fecha_formateada": "4 de octubre de 2026",
-  "resumen": "Efemérides deportivas argentinas del 4 de octubre",
+  "fecha": "2026-10-05",
+  "fecha_formateada": "5 de octubre de 2026",
+  "resumen": "Efemérides deportivas argentinas del 5 de octubre",
   "necesita_actualizacion": false,
   "deportes": {
     "futbol": {
@@ -9,10 +9,10 @@
       "nombre": "Fútbol Argentino",
       "nacimientos": [
         {
-          "nombre": "Diego Milito",
+          "nombre": "Pablo Aimar",
           "ano": 1979,
-          "detalle": "El 'Príncipe', goleador histórico de Racing e Inter de Milán. Campeón de Champions League 2010 (doblete en la final).",
-          "equipo": "Racing / Genoa / Zaragoza / Inter / Selección Argentina"
+          "detalle": "El 'Payaso', mediocampista mágico de River, Valencia, Zaragoza, Benfica. Campeón olímpico 2004.",
+          "equipo": "River Plate / Valencia / Zaragoza / Benfica / Johor / Selección Argentina"
         }
       ],
       "fallecimientos": [],
